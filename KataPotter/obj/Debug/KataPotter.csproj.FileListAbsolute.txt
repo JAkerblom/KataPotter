@@ -1,0 +1,5 @@
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\My_CIK_code\KataPotter\KataPotter\bin\Debug\KataPotter.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\My_CIK_code\KataPotter\KataPotter\bin\Debug\KataPotter.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\My_CIK_code\KataPotter\KataPotter\obj\Debug\KataPotter.dll
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\My_CIK_code\KataPotter\KataPotter\obj\Debug\KataPotter.pdb
+C:\Users\JAkerblom\Documents\Visual Studio 2015\Projects\My_CIK_code\KataPotter\KataPotter\obj\Debug\KataPotter.csprojResolveAssemblyReference.cache
